@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29720" started-at="2019-12-27T12:15:45 EST" finished-at="2019-12-27T12:16:15 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29720" started-at="2019-12-27T12:15:45 EST" finished-at="2019-12-27T12:16:15 EST">
+      <class name="org.selenium.testcases.TC_003">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:org.selenium.testcases.TC_003@4a87761d]" name="testcase1" duration-ms="13377" started-at="2019-12-27T12:15:45 EST" finished-at="2019-12-27T12:15:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.selenium.testcases.TC_003 -->
+      <class name="org.selenium.testcases.TC_001">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:org.selenium.testcases.TC_001@66d1af89]" name="testcase1" duration-ms="8279" started-at="2019-12-27T12:15:59 EST" finished-at="2019-12-27T12:16:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.selenium.testcases.TC_001 -->
+      <class name="org.selenium.testcases.TC_002">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:org.selenium.testcases.TC_002@8646db9]" name="testcase1" duration-ms="8024" started-at="2019-12-27T12:16:07 EST" finished-at="2019-12-27T12:16:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.selenium.testcases.TC_002 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
